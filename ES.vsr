@@ -1,0 +1,1292 @@
+
+(property scale 100)
+
+(vrl_instance obpfgpam expression [(= size {132 24}) (= selected 1)] 498 12 [(text 1 `Stem_and_branches` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance aiuudkuq continue [(= size {203 24}) (= selected 1)] 643 12 [(text 1 `Diseases_in_stem_and_branches~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eeniawwq continue [(= size {133 24}) (= selected 1)] 642 48 [(text 1 `Diseases_in_tea_roots` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kxmpjoxi expression [(= size {72 24}) (= selected 1)] 504 84 [(text 1 ` Leaves` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance oecqaovf expression [(= size {72 24}) (= selected 1)] 504 48 [(text 1 `Roots` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ztvmhpuz question [(= question_type single_choice) (= size {244 60}) (= selected 1)] 226 30 [(text 1 `Identification` [(= visible 2) (= edited 1)]) (text 2 `Which part of the tree has been infected?` [(= visible 2) (= edited 1)]) (text 3 `Identifying disease` [(= visible 2) (= edited 1)])])
+
+(vrl_instance chiuahef start [(= size {156 24}) (= selected 1)] 54 48 [(text 1 `Identifying_effected_area` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fmwbapyx continue [(= size {148 24}) (= selected 1)] 646 84 [(text 1 `Diseases_in_tea_leaves` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yuuobgrh question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 888 180 [(text 1 `odor` [(= visible 2) (= edited 1)]) (text 2 `Do you smell rancid odor?` [(= visible 2) (= edited 1)]) (text 3 `Rancid odor is a specific symptom for violet root rot.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vjsdyzct expression [(= size {72 24}) (= selected 1)] 792 384 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eulbrtxu statement [(= size {72 24}) (= selected 1)] 600 516 [(text 1 `confirmred` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_red > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fgmmuqzm expression [(= size {72 24}) (= selected 1)] 768 660 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kiqvtpdx expression [(= size {96 25}) (= selected 1)] 456 888 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zwcntocg expression [(= size {72 26}) (= selected 1)] 228 155 [(text 1 `= purple` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tsimxxnn expression [(= size {72 27}) (= selected 1)] 240 671 [(text 1 `= white` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jecrqfbu expression [(= size {72 24}) (= selected 1)] 240 888 [(text 1 `= black` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tkxonkmx question [(= question_type integer_input) (= size {108 24}) (= selected 1)] 342 672 [(text 1 `confirm_white` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing white micelium from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `white mycelium is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance buavabhn question [(= question_type integer_input) (= size {102 24}) (= selected 1)] 345 888 [(text 1 `confirm_black` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing black micelium from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `black mycelium is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance aswpchfs statement [(= size {78 24}) (= selected 1)] 1329 564 [(text 1 `statement12` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `fructification = 'yes', X = 0.50; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance bsedtsum expression [(= size {120 24}) (= selected 1)] 1428 516 [(text 1 ` >0.39 and =< 0.44` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance deehqeqr expression [(= size {120 24}) (= selected 1)] 1428 228 [(text 1 `> 0.11 and =< 0.17` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ezdjwoto statement [(= size {72 24}) (= selected 3)] 1332 396 [(text 1 `statement8` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `soil = 'yes', X = 0.33; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fjuvectv expression [(= size {120 24}) (= selected 1)] 1428 396 [(text 1 `> 0.28 and =< 0.33` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance knomtrok expression [(= size {120 24}) (= selected 1)] 1428 348 [(text 1 `> 0.22 and =< 0.28` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qagffoxm statement [(= size {72 24}) (= selected 1)] 1332 348 [(text 1 `statement7` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `resembalance = 'yes', X = 0.28; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance qocpovnn statement [(= size {72 24}) (= selected 2)] 1332 180 [(text 1 `statement2` [(= visible 2)]) (text 2 `X` [(= visible 2)]) (text 3 `odor = 'yes', X = 0.11; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance sjdfgrzd expression [(= size {120 24}) (= selected 1)] 1428 636 [(text 1 `> 0.50 and =< 0.56` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tkrtuxem expression [(= size {120 26}) (= selected 1)] 1428 467 [(text 1 `> 0.33 and =< 0.39` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uobuyemz expression [(= size {120 24}) (= selected 1)] 1428 564 [(text 1 `> 0.44 and =< 0.50` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance usopzvna statement [(= size {84 24}) (= selected 3)] 1326 516 [(text 1 `statement11` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `wash = 'yes', X = 0.44; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vtcaplcy expression [(= size {120 24}) (= selected 1)] 1428 684 [(text 1 `> 0.56 and =< 0.61` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ygxiefam expression [(= size {120 26}) (= selected 1)] 1428 299 [(text 1 `> 0.17 and =< 0.22` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zevsjdfe expression [(= size {120 24}) (= selected 1)] 1428 180 [(text 1 `> 0.06 and =< 0.11` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zqjowerx statement [(= size {72 24}) (= selected 1)] 1332 132 [(text 1 `statement4` [(= visible 2)]) (text 2 `X` [(= visible 2)]) (text 3 `statement1 > 0.7, X = 0.06; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fbsnhtbr statement [(= size {72 27}) (= selected 3)] 1332 227 [(text 1 `statement3` [(= visible 2)]) (text 2 `X` [(= visible 2)]) (text 3 `yellowleaves = 'yes', X = 0.17; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance kuwuannf statement [(= size {72 24}) (= selected 1)] 1332 300 [(text 1 `statement6` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `statement5 > 0.7, X = 0.22; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance tczockik statement [(= size {84 24}) (= selected 1)] 1326 468 [(text 1 `statement10` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `statement9 > 0.7, X = 0.39; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance qnewabvz statement [(= size {84 24}) (= selected 3)] 1326 636 [(text 1 `statement13` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `encrustation = 'yes', X = 0.56; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance opdoxdqg statement [(= size {84 24}) (= selected 3)] 1326 684 [(text 1 `statement14` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `shape = 'yes', X = 0.61; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance njuuynuo expression [(= size {120 24}) (= selected 1)] 1428 804 [(text 1 `> 0.67 and =< 0.72` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lwvtmzuw expression [(= size {120 24}) (= selected 1)] 1428 756 [(text 1 `> 0.61 and =< 0.67` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lgbawhos statement [(= size {84 24}) (= selected 1)] 1326 756 [(text 1 `statement15` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `surface = 'yes', X = 0.67; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance aadjskky statement [(= size {81 24}) (= selected 3)] 1328 804 [(text 1 `statement16` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `growth = 'yes', X = 0.72; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance iswdkzwt expression [(= size {120 24}) (= selected 1)] 1428 876 [(text 1 `> 0.72 and =< 0.78` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qlejvntr statement [(= size {78 27}) (= selected 1)] 1329 875 [(text 1 `statement17` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `strands = 'yes', X = 0.78; ~M~Jstrands = 'unsure', X = 0.78;~M~JX = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance xpflqkev end [(= size {294 24}) (= selected 1)] 1593 636 [(text 1 `Tea plants certainly have charcol stump rot disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mmwbrtdh end [(= size {295 26}) (= selected 1)] 1593 683 [(text 1 `Tea plants probably have ccharcol stump rot disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance oalfeujg end [(= size {294 25}) (= selected 1)] 1593 756 [(text 1 `Tea plants certainly have black root rot disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lnhgxpzb end [(= size {294 25}) (= selected 1)] 1593 816 [(text 1 `Tea plants probably have black root rot disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tzevslez end [(= size {294 25}) (= selected 1)] 1593 876 [(text 1 `Tea plants certainly have xylaria root rot disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zuuphxmt end [(= size {294 26}) (= selected 1)] 1593 563 [(text 1 `Tea plants probably have red root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vreazgjj end [(= size {294 26}) (= selected 1)] 1593 515 [(text 1 `Tea plants almost certainly have red root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nnohxfqo end [(= size {294 26}) (= selected 1)] 1593 467 [(text 1 `Tea plants certainly have red root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vdttitfr end [(= size {306 26}) (= selected 1)] 1587 395 [(text 1 `Tea plants probably have brown root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jixchjee end [(= size {306 26}) (= selected 1)] 1587 347 [(text 1 `Tea plants almost certainly have brown root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wzqntkom end [(= size {306 26}) (= selected 1)] 1587 299 [(text 1 `Tea plants certainly have brown root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xsladmhr end [(= size {306 26}) (= selected 1)] 1587 227 [(text 1 `Tea plants probably have violet root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ecxtgyou end [(= size {306 26}) (= selected 1)] 1587 179 [(text 1 `Tea plants almost certainly have violet root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ausqoiki end [(= size {306 26}) (= selected 1)] 1587 131 [(text 1 `Tea plants certainly have violet root disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance utiihbml end [(= size {282 26}) (= selected 1)] 1599 1031 [(text 1 `Tea plants probably have diplodia root rot disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rvbcumxr expression [(= size {120 26}) (= selected 1)] 1428 131 [(text 1 `> 0.01 and =< 0.06` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qsrbutzu expression [(= size {120 24}) (= selected 1)] 1440 1032 [(text 1 ` >0.83 and =< 0.89` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zytfcwad expression [(= size {120 24}) (= selected 1)] 1440 984 [(text 1 `> 0.78 and =< 0.83` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tjisdloa expression [(= size {120 24}) (= selected 1)] 1440 1080 [(text 1 `> 0.89 and =< 0.94` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xznmxich expression [(= size {72 24}) (= selected 1)] 312 1020 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hnwvomfs expression [(= size {72 24}) (= selected 1)] 312 984 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jymczswk expression [(= size {72 24}) (= selected 1)] 1224 804 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fytkwvhj expression [(= size {72 24}) (= selected 1)] 1224 912 [(text 1 `= unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yyqfevui expression [(= size {72 25}) (= selected 1)] 1224 948 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dhdmajfl expression [(= size {72 24}) (= selected 1)] 1224 876 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zdiddevm expression [(= size {72 24}) (= selected 1)] 1224 1104 [(text 1 `= unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kbjgegqi expression [(= size {72 24}) (= selected 1)] 1224 1068 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vdycirht expression [(= size {72 24}) (= selected 1)] 1224 1032 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lnzdahaa expression [(= size {72 24}) (= selected 1)] 1224 684 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance svttgque question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1116 684 [(text 1 `shape` [(= visible 2) (= edited 1)]) (text 2 `Do you see fan shaped mycelium on wood surface?` [(= visible 2) (= edited 1)]) (text 3 `Fan shaped mycelium is a specific symptom of charcol stump rot.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance njjipuoj question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1116 804 [(text 1 `growth` [(= visible 2) (= edited 1)]) (text 2 `Have you notices mycelium spead rapidly?` [(= visible 2) (= edited 1)]) (text 3 `Mycelium spreds rapidly is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance dqhnflyc expression [(= size {75 24}) (= selected 1)] 1007 840 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mxxtrqtm expression [(= size {72 24}) (= selected 1)] 1008 804 [(text 1 `= unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kmraqlqj expression [(= size {72 24}) (= selected 1)] 1008 756 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wpswlxyh expression [(= size {72 24}) (= selected 1)] 1008 708 [(text 1 ` = no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance aqbmxxqv expression [(= size {72 24}) (= selected 1)] 1008 672 [(text 1 ` = unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dcrksvbi expression [(= size {72 24}) (= selected 1)] 1008 636 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance idgoqbwv expression [(= size {72 24}) (= selected 1)] 1224 564 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xtfvaqtq expression [(= size {72 24}) (= selected 1)] 1008 588 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uatnjnyb expression [(= size {72 24}) (= selected 1)] 1008 552 [(text 1 `= unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uyihsftq expression [(= size {72 24}) (= selected 1)] 1008 516 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gqbgbtue question [(= question_type single_choice) (= size {84 24}) (= selected 1)] 882 552 [(text 1 `wash` [(= visible 2) (= edited 1)]) (text 2 `Upon washing does it reveals blood red?` [(= visible 2) (= edited 1)]) (text 3 `Revealing blood red upon washing is a specific symptom of red root disease.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance phwbrdzu expression [(= size {72 24}) (= selected 1)] 780 552 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zbwpjuzz expression [(= size {72 24}) (= selected 1)] 780 468 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xhmwbrpd expression [(= size {72 24}) (= selected 1)] 768 804 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tiwafecc question [(= question_type single_choice) (= size {84 24}) (= selected 1)] 882 804 [(text 1 `surface` [(= visible 2) (= edited 1)]) (text 2 `Do you see wooly root surface?` [(= visible 2) (= edited 1)]) (text 3 `Wooly root surface is a symptom of black root disease.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance atzcuvzk question [(= question_type single_choice) (= size {89 24}) (= selected 1)] 868 660 [(text 1 `encrustation` [(= visible 2) (= edited 1)]) (text 2 `Do you see charcol like encrustation?` [(= visible 2) (= edited 1)]) (text 3 `Charcol like encrustation is a special symptom of Charcol Stump Rot.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance qsixfhvi statement [(= size {72 24}) (= selected 1)] 684 744 [(text 1 `cfwhite` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmwhite` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gojicdom statement [(= size {72 24}) (= selected 3)] 600 744 [(text 1 `confirmwhite` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_white > 7, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance reghpzck expression [(= size {96 25}) (= selected 1)] 492 744 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance didodcop question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 888 912 [(text 1 `strands` [(= visible 2) (= edited 1)]) (text 2 `Do you see ribbon like straands?` [(= visible 2) (= edited 1)]) (text 3 `Ribbon like strands are a symptom of Xylaria.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance hypzikbq expression [(= size {72 24}) (= selected 1)] 768 912 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mtnyxrnh statement [(= size {72 24}) (= selected 1)] 684 864 [(text 1 `cfblack` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmblack` [(= visible 2) (= edited 1)])])
+
+(vrl_instance zgubixpx statement [(= size {72 24}) (= selected 1)] 576 864 [(text 1 `confirmblack` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_black > 7, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance hjdxjrkk expression [(= size {72 24}) (= selected 1)] 1224 396 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tjlawiig question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1116 396 [(text 1 `soil` [(= visible 2) (= edited 1)]) (text 2 `Do you see soil encrustation?` [(= visible 2) (= edited 1)]) (text 3 `Soil encrustation is a special symptom of brown root rot` [(= visible 2) (= edited 1)])])
+
+(vrl_instance dbjkokvp question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1116 564 [(text 1 `fructification` [(= visible 2) (= edited 1)]) (text 2 `Do you see plate like fructification` [(= visible 2) (= edited 1)]) (text 3 `plate like fructification is a symptom of red root disease` [(= visible 2) (= edited 1)])])
+
+(vrl_instance goapggax expression [(= size {74 24}) (= selected 1)] 1007 420 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vskwptbj expression [(= size {72 24}) (= selected 1)] 1008 384 [(text 1 ` = unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hzqlpptx expression [(= size {72 24}) (= selected 1)] 1008 348 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ecisuojm statement [(= size {72 24}) (= selected 2)] 1224 300 [(text 1 `statement5` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is cfbrown` [(= visible 2) (= edited 1)])])
+
+(vrl_instance opffujth statement [(= size {72 24}) (= selected 2)] 1224 468 [(text 1 `statement9` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is cfred` [(= visible 2) (= edited 1)])])
+
+(vrl_instance heqguccl expression [(= size {78 26}) (= selected 1)] 1221 227 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rbzlybdg expression [(= size {72 24}) (= selected 1)] 1008 252 [(text 1 ` = no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gtadzlle expression [(= size {72 24}) (= selected 1)] 1008 180 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mnpassfx expression [(= size {72 24}) (= selected 1)] 1008 216 [(text 1 ` = unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance epdazjgw question [(= question_type single_choice) (= size {85 24}) (= selected 1)] 1110 228 [(text 1 `yellowleaves` [(= visible 2) (= edited 1)]) (text 2 `Are there yellowing and dropping leaves?` [(= visible 2) (= edited 1)]) (text 3 `Yellowing and dropping leaves is a symptom of violet root rot.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jtyfbnhl expression [(= size {96 25}) (= selected 1)] 480 516 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance sninmmtb question [(= question_type integer_input) (= size {102 24}) (= selected 1)] 345 516 [(text 1 `confirm_red` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing red micelium from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `red mycelium is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vfkaabvr expression [(= size {72 24}) (= selected 1)] 240 516 [(text 1 `= red` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance malwxjta question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 120 516 [(text 1 `color` [(= visible 2) (= edited 1)]) (text 2 `What is the colour of mycelium?` [(= visible 2) (= edited 1)]) (text 3 `Classify disease symptom according to color.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gihxtgvh expression [(= size {72 24}) (= selected 1)] 792 300 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance secrspmz statement [(= size {72 24}) (= selected 1)] 696 516 [(text 1 `cfred` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmred` [(= visible 2) (= edited 1)])])
+
+(vrl_instance axhtghfm statement [(= size {72 24}) (= selected 1)] 696 348 [(text 1 `cfbrown` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmbrown` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ftlxocye statement [(= size {72 24}) (= selected 3)] 600 348 [(text 1 `confirmbrown` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_brown > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance cvvhpxye expression [(= size {96 25}) (= selected 1)] 480 348 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lwemzivj question [(= question_type integer_input) (= size {102 24}) (= selected 1)] 345 348 [(text 1 `confirm_brown` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing brown micelium from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `brown mycelium is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ndvndxef expression [(= size {78 24}) (= selected 1)] 237 348 [(text 1 `= brown` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rpyctncn question [(= question_type integer_input) (= size {101 24}) (= selected 3)] 346 156 [(text 1 `confirm_purple` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing purple micelium from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `purple mycelium is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance rrgnvryz statement [(= size {72 24}) (= selected 1)] 600 156 [(text 1 `confirmpurple` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_purple > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vzhrizug statement [(= size {72 24}) (= selected 1)] 696 156 [(text 1 `cfpurple` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmpurple` [(= visible 2) (= edited 1)])])
+
+(vrl_instance juxmidhk expression [(= size {72 24}) (= selected 1)] 792 180 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rkpfanrw expression [(= size {72 24}) (= selected 1)] 792 132 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ztjodfhx statement [(= size {72 24}) (= selected 1)] 1224 132 [(text 1 `statement1` [(= visible 2)]) (text 2 `X` [(= visible 2)]) (text 3 `X is cfpurple` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gymxpzjm statement [(= size {84 24}) (= selected 1)] 1326 984 [(text 1 `statement19` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `statement18 > 0.7, X = 0.83; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance xnbyztni statement [(= size {108 24}) (= selected 2)] 654 988 [(text 1 `diplodiaSymptom` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(diplodiaSymptom1 > 7, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance utprifjx statement [(= size {120 24}) (= selected 3)] 780 988 [(text 1 `cfdiplodiaSymptom` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is diplodiaSymptom` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jttkdfwb question [(= question_type integer_input) (= size {120 24}) (= selected 1)] 408 988 [(text 1 `diplodiaSymptom1` [(= visible 2) (= edited 1)]) (text 2 `How sure are you of seeing white powderly spots?` [(= visible 2) (= edited 1)]) (text 3 `White powderly spots is a symptom of Diplodia.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance avcpkvwp expression [(= size {77 24}) (= selected 1)] 910 1024 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance daqnfhig expression [(= size {72 24}) (= selected 1)] 912 988 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tcmlfqfn expression [(= size {96 25}) (= selected 1)] 540 988 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance focngizk statement [(= size {78 24}) (= selected 2)] 1221 984 [(text 1 `statement18` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is diplodiasymptom` [(= visible 2) (= edited 1)])])
+
+(vrl_instance qvtlecuo expression [(= size {96 25}) (= selected 1)] 480 156 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cvzeayvn end [(= size {282 24}) (= selected 1)] 1599 1080 [(text 1 `undefined disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ufitovkr question [(= question_type single_choice) (= size {91 24}) (= selected 1)] 891 384 [(text 1 `resembalance` [(= visible 2) (= edited 1)]) (text 2 `Does the affected area resemble samber skin?` [(= visible 2) (= edited 1)]) (text 3 `Resemblance to samber skin is a special symptom of brown root disease.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mwnipgzs statement [(= size {84 24}) (= selected 1)] 1326 1032 [(text 1 `statement20` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `shoots = 'yes', X = 0.89; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance yytwojsf statement [(= size {84 24}) (= selected 1)] 1326 1092 [(text 1 `statement21` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `shoots = 'no', X = 0.94; ~M~Jshoots = 'unsure', X = 0.94;~M~Jencrustation = 'no', X = 0.94;  = 'no', X = 0.94; ~M~Jshape = 'no', X = 0.94; ~M~Jfructification = 'no', X = 0.94; ~M~Jwash = 'no', X = 0.94; ~M~Jsoil = 'no', X = 0.94; ~M~Jresembalance = 'no', X = 0.94; ~M~Jyellowleaves = 'no', X = 0.94; ~M~Jodor = 'no', X = 0.94; ~M~JX = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ysgijrli end [(= size {294 27}) (= selected 1)] 1593 1163 [(text 1 `Tea plants ceratainly have twig dieback stem canker` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zikebamr expression [(= size {72 24}) (= selected 1)] 900 1200 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nwvklwxa expression [(= size {72 24}) (= selected 1)] 900 1236 [(text 1 `= unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nqapquvv expression [(= size {72 24}) (= selected 1)] 900 1164 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance djbgmftn question [(= question_type single_choice) (= size {72 24}) (= selected 2)] 756 1212 [(text 1 `canker` [(= visible 2) (= edited 1)]) (text 2 `Do you see any canker (cancerous growth)?` [(= visible 2) (= edited 1)]) (text 3 `Canker is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ipiawhot question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1044 1056 [(text 1 `shoots` [(= visible 2) (= edited 1)]) (text 2 `Do you see dieback of shoots?` [(= visible 2) (= edited 1)]) (text 3 `Dieback of shoots is a symptom of diplodia` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fbqbpcio question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1044 1212 [(text 1 `snap` [(= visible 2) (= edited 1)]) (text 2 `Do the leaves snap off easily?` [(= visible 2) (= edited 1)]) (text 3 `snap off of tea leaves easily is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance oipvnzhs end [(= size {288 24}) (= selected 1)] 1596 1308 [(text 1 `Tea plants probably have collar canker.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ztfkabwx expression [(= size {72 24}) (= selected 1)] 1224 1500 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pilnzxjj expression [(= size {72 24}) (= selected 1)] 1224 1548 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jzcpstoq expression [(= size {72 24}) (= selected 1)] 1128 1452 [(text 1 `= unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance itvjquks question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1128 1404 [(text 1 `cease` [(= visible 2) (= edited 1)]) (text 2 `Have you noticed cessation of growth?` [(= visible 2) (= edited 1)]) (text 3 `Cessation of growth is a ssymptom` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vtpvtmvy question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1128 1500 [(text 1 `wounds` [(= visible 2) (= edited 1)]) (text 2 `Have you noticed cancerous growth around wounds on branches` [(= visible 2) (= edited 1)]) (text 3 `Cancerous growth around wounds on branches is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance kjciphcy expression [(= size {72 24}) (= selected 1)] 1224 1452 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance agxtkbjj expression [(= size {72 24}) (= selected 1)] 1224 1404 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xuzaaasy expression [(= size {72 24}) (= selected 1)] 1128 1356 [(text 1 `= unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vtxjehit expression [(= size {72 24}) (= selected 1)] 1224 1356 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance etzeymhj expression [(= size {72 24}) (= selected 1)] 1224 1308 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vhlgifxo question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 1128 1308 [(text 1 `flowering` [(= visible 2) (= edited 1)]) (text 2 `Have you noticed profuse flowering?` [(= visible 2) (= edited 1)]) (text 3 `Profuse flowering is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ahtsjxvr end [(= size {294 24}) (= selected 1)] 1593 1260 [(text 1 `undefined disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uzdzmpzv expression [(= size {72 24}) (= selected 1)] 1224 1260 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wnanebpg end [(= size {294 27}) (= selected 1)] 1593 1211 [(text 1 `Tea plants certainly have Lepothyrium dieback disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jumsxieu expression [(= size {72 24}) (= selected 1)] 1224 1212 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kntkvqli end [(= size {288 24}) (= selected 1)] 1596 1356 [(text 1 `Tea plants probably have branch canker.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fpjinumi end [(= size {285 24}) (= selected 1)] 1598 1404 [(text 1 `Tea plants certainly have collar canker.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xxpgqhhb end [(= size {288 24}) (= selected 1)] 1596 1500 [(text 1 `Tea plants certainly have branch canker.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jkbwzzhp expression [(= size {72 24}) (= selected 1)] 1020 1368 [(text 1 `> 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vrrqghbq expression [(= size {72 25}) (= selected 1)] 1020 1596 [(text 1 `< 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xnbaeltl expression [(= size {72 24}) (= selected 1)] 1224 1596 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance sqfhujxt question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1116 1596 [(text 1 `black` [(= visible 2) (= edited 1)]) (text 2 `Do you see black encrustration?` [(= visible 2) (= edited 1)]) (text 3 `Black encrustation is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jkdloqhz expression [(= size {72 24}) (= selected 1)] 1224 1644 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qqebxqfv end [(= size {282 26}) (= selected 1)] 1599 1595 [(text 1 `Tea plants certainly have wood rot disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance axcbzdmm end [(= size {282 24}) (= selected 1)] 1599 1644 [(text 1 `Tea plants probably have wood rot disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ynjxyjew expression [(= size {120 24}) (= selected 1)] 1440 1164 [(text 1 `> 0.01 and =< 0.11` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vsynvhvn expression [(= size {120 24}) (= selected 1)] 1440 1212 [(text 1 ` >0.11 and =< 0.22` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance toevtsku expression [(= size {120 24}) (= selected 1)] 1440 1260 [(text 1 `> 0.22 and =< 0.33` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance luywjxyw expression [(= size {120 24}) (= selected 1)] 1440 1308 [(text 1 `> 0.33 and =< 0.44` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vkqlxzli expression [(= size {120 24}) (= selected 1)] 1440 1356 [(text 1 `> 0.44 and =< 0.56` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ukmfhfdj expression [(= size {120 24}) (= selected 1)] 1440 1404 [(text 1 `> 0.56 and =< 0.67` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tithzyae expression [(= size {120 24}) (= selected 1)] 1440 1500 [(text 1 `> 0.67 and =< 0.78` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lxvuxpjz expression [(= size {120 24}) (= selected 1)] 1440 1596 [(text 1 ` >0.78 and =< 0.89` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rftssqol expression [(= size {120 24}) (= selected 1)] 1440 1644 [(text 1 `> 0.89 and =< 0.1` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ikpttdkp statement [(= size {72 24}) (= selected 1)] 396 1392 [(text 1 `confirm_dieback` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(dieback > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance iwgictue statement [(= size {72 24}) (= selected 1)] 504 1392 [(text 1 `confirmDieback` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirm_dieback` [(= visible 2) (= edited 1)])])
+
+(vrl_instance msrhrnnf expression [(= size {96 25}) (= selected 1)] 264 1392 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xughlybz statement [(= size {72 24}) (= selected 3)] 900 1476 [(text 1 `confirm_canker1` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `canker1 > 5, X = 0.9; X = 0.1` [(= visible 2) (= edited 1)])])
+
+(vrl_instance eaubgtpz statement [(= size {72 24}) (= selected 3)] 996 1476 [(text 1 `confirmCanker1` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirm_canker1` [(= visible 2) (= edited 1)])])
+
+(vrl_instance svtcpobe expression [(= size {96 25}) (= selected 1)] 780 1476 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ccyqvigl expression [(= size {72 25}) (= selected 1)] 576 1476 [(text 1 `< 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kfhwpbqz expression [(= size {72 24}) (= selected 1)] 576 1296 [(text 1 `> 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qtzitgow statement [(= size {84 24}) (= selected 3)] 1326 1164 [(text 1 `statement23` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `canker = 'yes' , X = 0.11; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance okveastz statement [(= size {84 24}) (= selected 3)] 1326 1212 [(text 1 `statement24` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `snap = 'yes', X = 0.22; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jgnojbjm statement [(= size {84 24}) (= selected 3)] 1326 1260 [(text 1 `statement25` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `snap = 'no', X = 0.33; ~M~Jwounds = 'no', X = 0.33;~M~JX = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance hwbjfnii statement [(= size {84 24}) (= selected 3)] 1326 1356 [(text 1 `statement27` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `folwering = 'no', X = 0.56; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gteeuqcb statement [(= size {84 24}) (= selected 3)] 1326 1404 [(text 1 `statement28` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `cease = 'yes', X = 0.67; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nkjeaqtb statement [(= size {84 24}) (= selected 3)] 1326 1500 [(text 1 `statement29` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `wounds = 'yes', X = 0.78; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance qxickkbl statement [(= size {84 24}) (= selected 3)] 1326 1596 [(text 1 `statement30` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `black = 'yes', X = 0.89; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance avukegrh statement [(= size {84 24}) (= selected 3)] 1326 1308 [(text 1 `statement26` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `flowering = 'yes', X = 0.44; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance uuqjwajq statement [(= size {84 24}) (= selected 1)] 1326 1644 [(text 1 `statement31` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `black = 'no', X = 0.99; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nsszijqo expression [(= size {96 25}) (= selected 1)] 708 1800 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance epeenthu expression [(= size {72 24}) (= selected 1)] 468 1800 [(text 1 `= translucent_white` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vlynndha statement [(= size {72 24}) (= selected 3)] 828 1800 [(text 1 `confirmtranslucentwhite` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_translucent_white > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance kiflfvzh statement [(= size {72 24}) (= selected 3)] 924 1800 [(text 1 `cftranslucentwhite` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmtranslucentwhite` [(= visible 2) (= edited 1)])])
+
+(vrl_instance kahsrygc expression [(= size {72 24}) (= selected 1)] 1020 1800 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance adbmomys expression [(= size {72 24}) (= selected 1)] 1116 1788 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ljglsrkw expression [(= size {72 24}) (= selected 1)] 1116 1824 [(text 1 ` = unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ntavmciw end [(= size {282 26}) (= selected 1)] 1599 1739 [(text 1 `Tea plants certainly have blister blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gqgflwtw statement [(= size {84 24}) (= selected 3)] 1206 1740 [(text 1 `statement32` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is cftranslucentwhite` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nzenbcys expression [(= size {72 24}) (= selected 1)] 1020 1740 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fqnrzjgt question [(= question_type integer_input) (= size {102 24}) (= selected 3)] 573 2004 [(text 1 `confirm_brownspots` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing brown spots from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `brown spots is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance xoyvaamh expression [(= size {72 24}) (= selected 1)] 468 2160 [(text 1 `= grey` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qdlalewo statement [(= size {84 24}) (= selected 3)] 1206 1956 [(text 1 `statement34` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is cfbrownspots` [(= visible 2) (= edited 1)])])
+
+(vrl_instance iixkrrcs statement [(= size {72 24}) (= selected 3)] 924 2004 [(text 1 `cfbrownspots` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmbrownspots` [(= visible 2) (= edited 1)])])
+
+(vrl_instance owigwzad statement [(= size {72 24}) (= selected 1)] 828 2004 [(text 1 `confirmbrownspots` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_brownspots > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance meqggllp end [(= size {282 26}) (= selected 1)] 1599 1955 [(text 1 `Tea plants certainly have brown blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yntdvyqp expression [(= size {72 24}) (= selected 1)] 1020 1956 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ezcsuhhm expression [(= size {96 25}) (= selected 1)] 708 2004 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vdukgmee expression [(= size {72 24}) (= selected 1)] 1212 1836 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance crrahfcp expression [(= size {72 24}) (= selected 1)] 1116 1896 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance epkrabfg end [(= size {282 26}) (= selected 1)] 1599 1787 [(text 1 `Tea plants almost certainly have blister blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zgpcxkaj end [(= size {282 26}) (= selected 1)] 1599 1835 [(text 1 `Tea plants probably have blister blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ygriramr end [(= size {282 26}) (= selected 1)] 1599 1895 [(text 1 `Undefined disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zbafmjgy expression [(= size {72 24}) (= selected 1)] 1020 2004 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rccdpqge expression [(= size {72 24}) (= selected 1)] 1020 2160 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wwrvgdhb expression [(= size {96 25}) (= selected 1)] 708 2208 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qhncbkce expression [(= size {72 24}) (= selected 1)] 1020 2412 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dfznzgrv expression [(= size {96 25}) (= selected 1)] 708 2376 [(text 1 ` >= 0 and =<10` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qzxmcthz statement [(= size {72 24}) (= selected 3)] 828 2208 [(text 1 `confirmgrey` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_grey > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gaeposbk statement [(= size {72 24}) (= selected 3)] 924 2208 [(text 1 `cfgrey` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmgrey` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mskbabni statement [(= size {84 24}) (= selected 3)] 1218 2160 [(text 1 `statement36` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is cfgrey` [(= visible 2) (= edited 1)])])
+
+(vrl_instance zkbrdlci question [(= question_type integer_input) (= size {102 24}) (= selected 3)] 573 2208 [(text 1 `confirm_grey` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing grey spots from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `Grey spots is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance yrawnsul question [(= question_type integer_input) (= size {102 24}) (= selected 2)] 573 2376 [(text 1 `confirm_orange` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing orange / redish brown spots from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `Orange / redish brown spots is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance xmhcmzvv statement [(= size {72 24}) (= selected 3)] 828 2376 [(text 1 `confirmorange` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `(confirm_orange > 5, X = 0.9; X = 0.1)` [(= visible 2) (= edited 1)])])
+
+(vrl_instance uzysqqoj statement [(= size {72 24}) (= selected 3)] 924 2376 [(text 1 `cforange` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is confirmorange` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mptdjaqc expression [(= size {72 24}) (= selected 1)] 1020 2328 [(text 1 ` > 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance utczaztg expression [(= size {72 24}) (= selected 1)] 1116 2004 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qygwbwbi expression [(= size {72 24}) (= selected 1)] 1116 2040 [(text 1 ` = unsure` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nriwtcff expression [(= size {72 24}) (= selected 1)] 1116 2112 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cvdlniug expression [(= size {72 24}) (= selected 1)] 1212 2064 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vpjbvirf end [(= size {282 26}) (= selected 1)] 1599 2003 [(text 1 `Tea plants almost certainly have brown blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xoljyxkm end [(= size {282 26}) (= selected 1)] 1611 2051 [(text 1 `Tea plants probably have brown blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zgchihnj expression [(= size {72 24}) (= selected 1)] 1224 2208 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pryokxvp expression [(= size {72 24}) (= selected 1)] 1020 2256 [(text 1 ` < 0.7` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vomzoorl expression [(= size {72 24}) (= selected 1)] 1224 2376 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance bgsznnmh expression [(= size {72 24}) (= selected 1)] 1224 2424 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ialbqmal statement [(= size {84 24}) (= selected 3)] 1218 2328 [(text 1 `statement38` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `X is cforange` [(= visible 2) (= edited 1)])])
+
+(vrl_instance rmmbsqwf expression [(= size {72 24}) (= selected 1)] 1224 2256 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qkihlhxn end [(= size {282 26}) (= selected 1)] 1611 2207 [(text 1 `Tea plants probably have grey blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tyzfifhj end [(= size {282 26}) (= selected 1)] 1611 2327 [(text 1 `Tea plants certainly alga leaf spots disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance irtqrbik end [(= size {282 26}) (= selected 1)] 1611 2375 [(text 1 `Tea plants probably alga leaf spots disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cwvnyhwm expression [(= size {120 26}) (= selected 1)] 1440 1739 [(text 1 `> 0.01 and =< 0.09` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ixdiddug expression [(= size {120 26}) (= selected 1)] 1440 1787 [(text 1 `> 0.09 and =< 0.18` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mjvymyza expression [(= size {120 26}) (= selected 1)] 1440 1835 [(text 1 `> 0.18 and =< 0.27` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance igkwczlf expression [(= size {120 26}) (= selected 1)] 1440 1895 [(text 1 `> 0.27 and =< 0.36` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance osxgsldp expression [(= size {120 26}) (= selected 1)] 1440 1955 [(text 1 `> 0.34 and =< 0.45` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kfzhlqhn expression [(= size {120 26}) (= selected 1)] 1440 2003 [(text 1 `> 0.45 and =< 0.55` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gbyxozac expression [(= size {120 26}) (= selected 1)] 1440 2051 [(text 1 `> 0.55 and =< 0.64` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rzbuzzal expression [(= size {120 26}) (= selected 1)] 1452 2159 [(text 1 `> 0.64 and =< 0.73` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance skkvtqql expression [(= size {120 26}) (= selected 1)] 1452 2207 [(text 1 `> 0.73 and =< 0.82` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance obhcfmej expression [(= size {120 26}) (= selected 1)] 1452 2327 [(text 1 `> 0.82 and =< 0.91` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nmrigscr expression [(= size {120 26}) (= selected 1)] 1452 2375 [(text 1 `> 0.91 and =< 1` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ytkozfwt statement [(= size {84 24}) (= selected 3)] 1326 1740 [(text 1 `statement33` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `statement32 > 0.7, X = 0.09; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ndyewbsw statement [(= size {84 24}) (= selected 3)] 1326 1836 [(text 1 `statemen41` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `blisters = 'yes', X = 0.27; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance axrqlyvl statement [(= size {84 24}) (= selected 1)] 1326 1896 [(text 1 `statement42` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `lesion = 'no' , X = 0.36; ~M~Jblisters = 'no' , X = 0.36;~M~Jcircular = 'no' , X = 0.36;~M~Jdrop = 'no' , X = 0.36;~M~Jmargin = 'no', X = 0.36;~M~Jroughspots = 'no', x = 0.36;~M~JX = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jpsbstgi statement [(= size {84 24}) (= selected 3)] 1326 1956 [(text 1 `statement35` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `statement34 > 0.7, X = 0.45; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance tuulphuj statement [(= size {84 24}) (= selected 3)] 1326 2052 [(text 1 `statemen44` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `drop = 'yes', X = 0.64; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance eganpdbf statement [(= size {84 24}) (= selected 3)] 1338 2160 [(text 1 `statement37` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `statement36 > 0.7, X = 0.73; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vhmsktvl expression [(= size {79 24}) (= selected 1)] 465 2004 [(text 1 `= brown` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gwlwqtbu question [(= question_type integer_input) (= size {72 24}) (= selected 3)] 576 1800 [(text 1 `confirm_translucent_white` [(= visible 2) (= edited 1)]) (text 2 `How sure are you about seeing translucent / white spots from 0 to 10?` [(= visible 2) (= edited 1)]) (text 3 `Translucent / white spots is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance kmugmpmr expression [(= size {72 24}) (= selected 1)] 468 2328 [(text 1 `= orange_redish_brown` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cxativcj statement [(= size {84 24}) (= selected 3)] 1326 1788 [(text 1 `statement40` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `lesion = 'yes', X = 0.18; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gczxgdmj statement [(= size {84 24}) (= selected 3)] 1326 2004 [(text 1 `statement43` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `circular = 'yes', X = 0.55; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mdsnwwyt statement [(= size {84 24}) (= selected 3)] 1338 2208 [(text 1 `statement45` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `margin = 'yes', X = 0.82; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jvdcpbir statement [(= size {84 24}) (= selected 1)] 1338 2328 [(text 1 `statement39` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `statement38 > 0.7, X = 0.91; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance qezdjbem statement [(= size {84 24}) (= selected 3)] 1338 2376 [(text 1 `statement46` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `roughspots = 'yes', X = 0.33; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance zgueyzoc expression [(= size {120 24}) (= selected 1)] 1452 2484 [(text 1 `> 0.22 and =< 0.33` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance osniwqgo expression [(= size {120 24}) (= selected 1)] 1452 2580 [(text 1 `> 0.22 and =< 0.33` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance noeeeywp expression [(= size {120 24}) (= selected 1)] 1452 2532 [(text 1 `> 0.22 and =< 0.33` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rvjgqslf statement [(= size {84 24}) (= selected 3)] 1338 2580 [(text 1 `statement25_qzfdhahb` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `burntleaves = 'no', X = 0.33; ~M~JX = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance dlsdqupd statement [(= size {84 24}) (= selected 3)] 1338 2532 [(text 1 `statement25_hqcdvvjq` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `burntleaves = 'yes', X = 0.33;~M~JX = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gvhmfckw statement [(= size {84 24}) (= selected 3)] 1338 2484 [(text 1 `statement25_rmeyzyxg` [(= visible 2) (= edited 1)]) (text 2 `X` [(= visible 2)]) (text 3 `fungal = 'yes', X = 0.33; X = 0.01` [(= visible 2) (= edited 1)])])
+
+(vrl_instance lienfjtj expression [(= size {72 24}) (= selected 1)] 1224 2532 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zdledjss expression [(= size {72 25}) (= selected 1)] 1224 2580 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance avaigprm expression [(= size {72 24}) (= selected 1)] 1020 2484 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hqtrlaqy end [(= size {294 24}) (= selected 1)] 1617 2484 [(text 1 `Tea plants certainly have horse hair blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kjtfgkee end [(= size {294 24}) (= selected 1)] 1617 2532 [(text 1 `Tea plants probably have horse hair blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qgwpiilx expression [(= size {72 24}) (= selected 1)] 1020 2556 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance chnuytde question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 120 996 [(text 1 `spots` [(= visible 2) (= edited 1)]) (text 2 `Are there any white powderly spots with black centers?` [(= visible 2) (= edited 1)]) (text 3 `white powderly spots is a symptom of Diplodia.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance neydbnoc expression [(= size {72 24}) (= selected 1)] 84 876 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gpkgaqcj expression [(= size {72 24}) (= selected 1)] 84 636 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ntkerwaw question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 36 756 [(text 1 `mycelium` [(= visible 2) (= edited 1)]) (text 2 `Do you see any mycelium?` [(= visible 2) (= edited 1)]) (text 3 `Mycelium related root disease` [(= visible 2) (= edited 1)])])
+
+(vrl_instance styytswf start [(= size {139 24}) (= selected 1)] -129 756 [(text 1 `Diseases_in_tea_roots` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dkzihcwh start [(= size {203 24}) (= selected 1)] -185 1392 [(text 1 `Diseases_in_stem_and_branches~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lvmecbrp start [(= size {151 24}) (= selected 1)] -135 2304 [(text 1 `Diseases_in_tea_leaves` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dwymfltw question [(= question_type single_choice) (= size {72 24}) (= selected 1)] 48 2304 [(text 1 `surfaceSpots` [(= visible 2) (= edited 1)]) (text 2 `Do you see spots on the upper surface of the leaves?` [(= visible 2) (= edited 1)]) (text 3 `Spots appearing on upper surface of the leaves is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance szchkkhs expression [(= size {72 24}) (= selected 1)] 216 2088 [(text 1 `= yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cafvolzm question [(= question_type single_choice) (= size {72 24}) (= selected 2)] 336 2088 [(text 1 `spotColor` [(= visible 2) (= edited 1)]) (text 2 `What is the color of the spots on the leaves?` [(= visible 2) (= edited 1)]) (text 3 `Different color spots are symptoms.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance lmjpyihm expression [(= size {72 24}) (= selected 1)] 204 2532 [(text 1 `= no` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ybvodpzu end [(= size {282 24}) (= selected 1)] 1599 984 [(text 1 `Tea plants certainly have diplodia root rot disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fnrgyydu end [(= size {294 24}) (= selected 1)] 1617 2580 [(text 1 `undefined disease` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dwbsddpu end [(= size {282 26}) (= selected 1)] 1611 2159 [(text 1 `Tea plants certainly have grey blight disease.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xmeeyaav question [(= question_type integer_input) (= size {72 24}) (= selected 1)] 48 1392 [(text 1 `dieback` [(= visible 2) (= edited 1)]) (text 2 `How surew are you of noticing dieback of shoots from 1 to 10?` [(= visible 2) (= edited 1)]) (text 3 `Dieback of shoots is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vhmsiawy question [(= question_type integer_input) (= size {72 24}) (= selected 1)] 684 1476 [(text 1 `canker1` [(= visible 2) (= edited 1)]) (text 2 `How sure are you of seeing canker (cancerous growth) from 1 to 10?` [(= visible 2) (= edited 1)]) (text 3 `Canker is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance cefnpmrv question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1020 1848 [(text 1 `lesion` [(= visible 2) (= edited 1)]) (text 2 `Do you see sunken lesions on the upper surface of leaves?` [(= visible 2) (= edited 1)]) (text 3 `Sunken lesions is a symptom` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mwehvjbk question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1116 1860 [(text 1 `blisters` [(= visible 2) (= edited 1)]) (text 2 `Do you see convex blisters on the lower surface of the leaves?` [(= visible 2) (= edited 1)]) (text 3 `Convex blisters on the lower surface is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ioykqgrk question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1020 2064 [(text 1 `circular` [(= visible 2) (= edited 1)]) (text 2 `Do you see Irregular circular brown spots with concentric rings?` [(= visible 2) (= edited 1)]) (text 3 `Irregular circular brown spots with concentric rings is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mcclqapw question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1116 2076 [(text 1 `drop` [(= visible 2) (= edited 1)]) (text 2 `Do you see unusual leave dropping?` [(= visible 2) (= edited 1)]) (text 3 `Unusually dropping leaves is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance hjftzwkl question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1116 2256 [(text 1 `margin` [(= visible 2) (= edited 1)]) (text 2 `Do you see Circular to irregular grey spots with darker margins?` [(= visible 2) (= edited 1)]) (text 3 `Circular to irregular grey spots with darker margins is a symptom` [(= visible 2) (= edited 1)])])
+
+(vrl_instance bydrpmtn question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1116 2412 [(text 1 `roughspots` [(= visible 2) (= edited 1)]) (text 2 `Do you see circular raised rough spots?` [(= visible 2) (= edited 1)]) (text 3 `Circular raised rough spots is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ktojrkyo question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 1116 2556 [(text 1 `burntleaves` [(= visible 2) (= edited 1)]) (text 2 `Do you see burnt and dry appearance of the leaves?` [(= visible 2) (= edited 1)]) (text 3 `Leaves appear to be burnt and dry is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance xwkndajd question [(= question_type single_choice) (= size {72 24}) (= selected 3)] 348 2532 [(text 1 `fungal` [(= visible 2) (= edited 1)]) (text 2 `Do you see black hair like fungal strands?` [(= visible 2) (= edited 1)]) (text 3 `Black hair like fungal strands is a symptom.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance {chiuahef ztvmhpuz} link [(= size {0 0})] chiuahef ztvmhpuz [])
+
+(vrl_instance {ztvmhpuz kxmpjoxi} link [(= size {0 0})] ztvmhpuz kxmpjoxi [])
+
+(vrl_instance {ztvmhpuz oecqaovf} link [(= size {0 0})] ztvmhpuz oecqaovf [])
+
+(vrl_instance {ztvmhpuz obpfgpam} link [(= size {0 0})] ztvmhpuz obpfgpam [])
+
+(vrl_instance {kxmpjoxi fmwbapyx} link [(= size {0 0})] kxmpjoxi fmwbapyx [])
+
+(vrl_instance {oecqaovf eeniawwq} link [(= size {0 0})] oecqaovf eeniawwq [])
+
+(vrl_instance {obpfgpam aiuudkuq} link [(= size {0 0})] obpfgpam aiuudkuq [])
+
+(vrl_instance {ntkerwaw gpkgaqcj} link [(= size {0 0})] ntkerwaw gpkgaqcj [arrow line])
+
+(vrl_instance {ntkerwaw neydbnoc} link [(= size {0 0})] ntkerwaw neydbnoc [arrow line])
+
+(vrl_instance {styytswf ntkerwaw} link [(= size {0 0})] styytswf ntkerwaw [arrow line])
+
+(vrl_instance {gpkgaqcj malwxjta} link [(= size {0 0})] gpkgaqcj malwxjta [arrow line])
+
+(vrl_instance {neydbnoc chnuytde} link [(= size {0 0})] neydbnoc chnuytde [arrow line])
+
+(vrl_instance {chnuytde hnwvomfs} link [(= size {0 0})] chnuytde hnwvomfs [arrow line])
+
+(vrl_instance {chnuytde xznmxich} link [(= size {0 0})] chnuytde xznmxich [arrow line])
+
+(vrl_instance {yuuobgrh gtadzlle} link [(= size {0 0})] yuuobgrh gtadzlle [arrow line])
+
+(vrl_instance {yuuobgrh rbzlybdg} link [(= size {0 0})] yuuobgrh rbzlybdg [arrow line])
+
+(vrl_instance {yuuobgrh mnpassfx} link [(= size {0 0})] yuuobgrh mnpassfx [arrow line])
+
+(vrl_instance {atzcuvzk dcrksvbi} link [(= size {0 0})] atzcuvzk dcrksvbi [arrow line])
+
+(vrl_instance {atzcuvzk aqbmxxqv} link [(= size {0 0})] atzcuvzk aqbmxxqv [arrow line])
+
+(vrl_instance {atzcuvzk wpswlxyh} link [(= size {0 0})] atzcuvzk wpswlxyh [arrow line])
+
+(vrl_instance {aqbmxxqv svttgque} link [(= size {0 0})] aqbmxxqv svttgque [arrow line])
+
+(vrl_instance {svttgque wpswlxyh} link [(= size {0 0})] svttgque wpswlxyh [arrow line])
+
+(vrl_instance {ufitovkr goapggax} link [(= size {0 0})] ufitovkr goapggax [arrow line])
+
+(vrl_instance {ufitovkr vskwptbj} link [(= size {0 0})] ufitovkr vskwptbj [arrow line])
+
+(vrl_instance {ufitovkr hzqlpptx} link [(= size {0 0})] ufitovkr hzqlpptx [arrow line])
+
+(vrl_instance {vskwptbj tjlawiig} link [(= size {0 0})] vskwptbj tjlawiig [arrow line])
+
+(vrl_instance {tjlawiig goapggax} link [(= size {0 0})] tjlawiig goapggax [arrow line])
+
+(vrl_instance {mnpassfx epdazjgw} link [(= size {0 0})] mnpassfx epdazjgw [arrow line])
+
+(vrl_instance {epdazjgw rbzlybdg} link [(= size {0 0})] epdazjgw rbzlybdg [arrow line])
+
+(vrl_instance {lwemzivj cvvhpxye} link [(= size {0 0})] lwemzivj cvvhpxye [arrow line])
+
+(vrl_instance {cvvhpxye ftlxocye} link [(= size {0 0})] cvvhpxye ftlxocye [arrow line])
+
+(vrl_instance {ftlxocye axhtghfm} link [(= size {0 0})] ftlxocye axhtghfm [arrow line])
+
+(vrl_instance {axhtghfm gihxtgvh} link [(= size {0 0})] axhtghfm gihxtgvh [arrow line])
+
+(vrl_instance {axhtghfm vjsdyzct} link [(= size {0 0})] axhtghfm vjsdyzct [arrow line])
+
+(vrl_instance {sninmmtb jtyfbnhl} link [(= size {0 0})] sninmmtb jtyfbnhl [])
+
+(vrl_instance {jtyfbnhl eulbrtxu} link [(= size {0 0})] jtyfbnhl eulbrtxu [])
+
+(vrl_instance {eulbrtxu secrspmz} link [(= size {0 0})] eulbrtxu secrspmz [])
+
+(vrl_instance {secrspmz zbwpjuzz} link [(= size {0 0})] secrspmz zbwpjuzz [])
+
+(vrl_instance {secrspmz phwbrdzu} link [(= size {0 0})] secrspmz phwbrdzu [])
+
+(vrl_instance {rpyctncn qvtlecuo} link [(= size {0 0})] rpyctncn qvtlecuo [])
+
+(vrl_instance {qvtlecuo rrgnvryz} link [(= size {0 0})] qvtlecuo rrgnvryz [])
+
+(vrl_instance {rrgnvryz vzhrizug} link [(= size {0 0})] rrgnvryz vzhrizug [])
+
+(vrl_instance {vzhrizug rkpfanrw} link [(= size {0 0})] vzhrizug rkpfanrw [])
+
+(vrl_instance {vzhrizug juxmidhk} link [(= size {0 0})] vzhrizug juxmidhk [])
+
+(vrl_instance {vjsdyzct ufitovkr} link [(= size {0 0})] vjsdyzct ufitovkr [arrow line])
+
+(vrl_instance {juxmidhk yuuobgrh} link [(= size {0 0})] juxmidhk yuuobgrh [arrow line])
+
+(vrl_instance {malwxjta tsimxxnn} link [(= size {0 0})] malwxjta tsimxxnn [arrow line])
+
+(vrl_instance {malwxjta jecrqfbu} link [(= size {0 0})] malwxjta jecrqfbu [arrow line])
+
+(vrl_instance {malwxjta ndvndxef} link [(= size {0 0})] malwxjta ndvndxef [arrow line])
+
+(vrl_instance {malwxjta vfkaabvr} link [(= size {0 0})] malwxjta vfkaabvr [arrow line])
+
+(vrl_instance {malwxjta zwcntocg} link [(= size {0 0})] malwxjta zwcntocg [arrow line])
+
+(vrl_instance {ndvndxef lwemzivj} link [(= size {0 0})] ndvndxef lwemzivj [arrow line])
+
+(vrl_instance {zwcntocg rpyctncn} link [(= size {0 0})] zwcntocg rpyctncn [arrow line])
+
+(vrl_instance {vfkaabvr sninmmtb} link [(= size {0 0})] vfkaabvr sninmmtb [arrow line])
+
+(vrl_instance {tkxonkmx reghpzck} link [(= size {0 0})] tkxonkmx reghpzck [])
+
+(vrl_instance {reghpzck gojicdom} link [(= size {0 0})] reghpzck gojicdom [])
+
+(vrl_instance {gojicdom qsixfhvi} link [(= size {0 0})] gojicdom qsixfhvi [])
+
+(vrl_instance {qsixfhvi fgmmuqzm} link [(= size {0 0})] qsixfhvi fgmmuqzm [])
+
+(vrl_instance {qsixfhvi xhmwbrpd} link [(= size {0 0})] qsixfhvi xhmwbrpd [])
+
+(vrl_instance {buavabhn kiqvtpdx} link [(= size {0 0})] buavabhn kiqvtpdx [])
+
+(vrl_instance {kiqvtpdx zgubixpx} link [(= size {0 0})] kiqvtpdx zgubixpx [])
+
+(vrl_instance {zgubixpx mtnyxrnh} link [(= size {0 0})] zgubixpx mtnyxrnh [])
+
+(vrl_instance {mtnyxrnh hypzikbq} link [(= size {0 0})] mtnyxrnh hypzikbq [])
+
+(vrl_instance {fgmmuqzm atzcuvzk} link [(= size {0 0})] fgmmuqzm atzcuvzk [arrow line])
+
+(vrl_instance {tsimxxnn tkxonkmx} link [(= size {0 0})] tsimxxnn tkxonkmx [arrow line])
+
+(vrl_instance {jecrqfbu buavabhn} link [(= size {0 0})] jecrqfbu buavabhn [arrow line])
+
+(vrl_instance {hypzikbq didodcop} link [(= size {0 0})] hypzikbq didodcop [arrow line])
+
+(vrl_instance {didodcop dhdmajfl} link [(= size {0 0})] didodcop dhdmajfl [arrow line])
+
+(vrl_instance {didodcop fytkwvhj} link [(= size {0 0})] didodcop fytkwvhj [arrow line])
+
+(vrl_instance {didodcop yyqfevui} link [(= size {0 0})] didodcop yyqfevui [arrow line])
+
+(vrl_instance {yyqfevui tiwafecc} link [(= size {0 0})] yyqfevui tiwafecc [arrow line])
+
+(vrl_instance {xhmwbrpd tiwafecc} link [(= size {0 0})] xhmwbrpd tiwafecc [arrow line])
+
+(vrl_instance {tiwafecc kmraqlqj} link [(= size {0 0})] tiwafecc kmraqlqj [arrow line])
+
+(vrl_instance {tiwafecc mxxtrqtm} link [(= size {0 0})] tiwafecc mxxtrqtm [arrow line])
+
+(vrl_instance {tiwafecc dqhnflyc} link [(= size {0 0})] tiwafecc dqhnflyc [arrow line])
+
+(vrl_instance {gqbgbtue uatnjnyb} link [(= size {0 0})] gqbgbtue uatnjnyb [arrow line])
+
+(vrl_instance {gqbgbtue uyihsftq} link [(= size {0 0})] gqbgbtue uyihsftq [arrow line])
+
+(vrl_instance {gqbgbtue xtfvaqtq} link [(= size {0 0})] gqbgbtue xtfvaqtq [arrow line])
+
+(vrl_instance {uatnjnyb dbjkokvp} link [(= size {0 0})] uatnjnyb dbjkokvp [arrow line])
+
+(vrl_instance {dbjkokvp xtfvaqtq} link [(= size {0 0})] dbjkokvp xtfvaqtq [arrow line])
+
+(vrl_instance {phwbrdzu gqbgbtue} link [(= size {0 0})] phwbrdzu gqbgbtue [arrow line])
+
+(vrl_instance {mtnyxrnh xhmwbrpd} link [(= size {0 0})] mtnyxrnh xhmwbrpd [arrow line])
+
+(vrl_instance {njjipuoj dqhnflyc} link [(= size {0 0})] njjipuoj dqhnflyc [arrow line])
+
+(vrl_instance {dqhnflyc gqbgbtue} link [(= size {0 0})] dqhnflyc gqbgbtue [arrow line])
+
+(vrl_instance {mxxtrqtm njjipuoj} link [(= size {0 0})] mxxtrqtm njjipuoj [arrow line])
+
+(vrl_instance {xznmxich ipiawhot} link [(= size {0 0})] xznmxich ipiawhot [arrow line])
+
+(vrl_instance {ipiawhot kbjgegqi} link [(= size {0 0})] ipiawhot kbjgegqi [arrow line])
+
+(vrl_instance {ipiawhot zdiddevm} link [(= size {0 0})] ipiawhot zdiddevm [arrow line])
+
+(vrl_instance {ipiawhot vdycirht} link [(= size {0 0})] ipiawhot vdycirht [arrow line])
+
+(vrl_instance {epdazjgw heqguccl} link [(= size {0 0})] epdazjgw heqguccl [arrow line])
+
+(vrl_instance {rvbcumxr ausqoiki} link [(= size {0 0})] rvbcumxr ausqoiki [arrow line])
+
+(vrl_instance {zevsjdfe ecxtgyou} link [(= size {0 0})] zevsjdfe ecxtgyou [arrow line])
+
+(vrl_instance {deehqeqr xsladmhr} link [(= size {0 0})] deehqeqr xsladmhr [arrow line])
+
+(vrl_instance {rkpfanrw ztjodfhx} link [(= size {0 0})] rkpfanrw ztjodfhx [arrow line])
+
+(vrl_instance {ztjodfhx zqjowerx} link [(= size {0 0})] ztjodfhx zqjowerx [arrow line])
+
+(vrl_instance {gtadzlle qocpovnn} link [(= size {0 0})] gtadzlle qocpovnn [arrow line])
+
+(vrl_instance {heqguccl fbsnhtbr} link [(= size {0 0})] heqguccl fbsnhtbr [arrow line])
+
+(vrl_instance {fbsnhtbr deehqeqr} link [(= size {0 0})] fbsnhtbr deehqeqr [arrow line])
+
+(vrl_instance {qocpovnn zevsjdfe} link [(= size {0 0})] qocpovnn zevsjdfe [arrow line])
+
+(vrl_instance {zqjowerx rvbcumxr} link [(= size {0 0})] zqjowerx rvbcumxr [arrow line])
+
+(vrl_instance {ygxiefam wzqntkom} link [(= size {0 0})] ygxiefam wzqntkom [])
+
+(vrl_instance {knomtrok jixchjee} link [(= size {0 0})] knomtrok jixchjee [])
+
+(vrl_instance {fjuvectv vdttitfr} link [(= size {0 0})] fjuvectv vdttitfr [])
+
+(vrl_instance {ecisuojm kuwuannf} link [(= size {0 0})] ecisuojm kuwuannf [])
+
+(vrl_instance {ezdjwoto fjuvectv} link [(= size {0 0})] ezdjwoto fjuvectv [])
+
+(vrl_instance {qagffoxm knomtrok} link [(= size {0 0})] qagffoxm knomtrok [])
+
+(vrl_instance {kuwuannf ygxiefam} link [(= size {0 0})] kuwuannf ygxiefam [])
+
+(vrl_instance {tkrtuxem nnohxfqo} link [(= size {0 0})] tkrtuxem nnohxfqo [])
+
+(vrl_instance {bsedtsum vreazgjj} link [(= size {0 0})] bsedtsum vreazgjj [])
+
+(vrl_instance {uobuyemz zuuphxmt} link [(= size {0 0})] uobuyemz zuuphxmt [])
+
+(vrl_instance {opffujth tczockik} link [(= size {0 0})] opffujth tczockik [])
+
+(vrl_instance {aswpchfs uobuyemz} link [(= size {0 0})] aswpchfs uobuyemz [])
+
+(vrl_instance {usopzvna bsedtsum} link [(= size {0 0})] usopzvna bsedtsum [])
+
+(vrl_instance {tczockik tkrtuxem} link [(= size {0 0})] tczockik tkrtuxem [])
+
+(vrl_instance {sjdfgrzd xpflqkev} link [(= size {0 0})] sjdfgrzd xpflqkev [])
+
+(vrl_instance {vtcaplcy mmwbrtdh} link [(= size {0 0})] vtcaplcy mmwbrtdh [])
+
+(vrl_instance {opdoxdqg vtcaplcy} link [(= size {0 0})] opdoxdqg vtcaplcy [])
+
+(vrl_instance {qnewabvz sjdfgrzd} link [(= size {0 0})] qnewabvz sjdfgrzd [])
+
+(vrl_instance {njuuynuo lnhgxpzb} link [(= size {0 0})] njuuynuo lnhgxpzb [])
+
+(vrl_instance {iswdkzwt tzevslez} link [(= size {0 0})] iswdkzwt tzevslez [])
+
+(vrl_instance {qlejvntr iswdkzwt} link [(= size {0 0})] qlejvntr iswdkzwt [])
+
+(vrl_instance {aadjskky njuuynuo} link [(= size {0 0})] aadjskky njuuynuo [])
+
+(vrl_instance {njjipuoj jymczswk} link [(= size {0 0})] njjipuoj jymczswk [arrow line])
+
+(vrl_instance {svttgque lnzdahaa} link [(= size {0 0})] svttgque lnzdahaa [arrow line])
+
+(vrl_instance {dbjkokvp idgoqbwv} link [(= size {0 0})] dbjkokvp idgoqbwv [arrow line])
+
+(vrl_instance {tjlawiig hjdxjrkk} link [(= size {0 0})] tjlawiig hjdxjrkk [arrow line])
+
+(vrl_instance {gihxtgvh ecisuojm} link [(= size {0 0})] gihxtgvh ecisuojm [arrow line])
+
+(vrl_instance {hzqlpptx qagffoxm} link [(= size {0 0})] hzqlpptx qagffoxm [arrow line])
+
+(vrl_instance {hjdxjrkk ezdjwoto} link [(= size {0 0})] hjdxjrkk ezdjwoto [arrow line])
+
+(vrl_instance {zbwpjuzz opffujth} link [(= size {0 0})] zbwpjuzz opffujth [arrow line])
+
+(vrl_instance {uyihsftq usopzvna} link [(= size {0 0})] uyihsftq usopzvna [arrow line])
+
+(vrl_instance {idgoqbwv aswpchfs} link [(= size {0 0})] idgoqbwv aswpchfs [arrow line])
+
+(vrl_instance {dcrksvbi qnewabvz} link [(= size {0 0})] dcrksvbi qnewabvz [arrow line])
+
+(vrl_instance {lnzdahaa opdoxdqg} link [(= size {0 0})] lnzdahaa opdoxdqg [arrow line])
+
+(vrl_instance {lwvtmzuw oalfeujg} link [(= size {0 0})] lwvtmzuw oalfeujg [])
+
+(vrl_instance {lgbawhos lwvtmzuw} link [(= size {0 0})] lgbawhos lwvtmzuw [])
+
+(vrl_instance {jymczswk aadjskky} link [(= size {0 0})] jymczswk aadjskky [arrow line])
+
+(vrl_instance {kmraqlqj lgbawhos} link [(= size {0 0})] kmraqlqj lgbawhos [arrow line])
+
+(vrl_instance {dhdmajfl qlejvntr} link [(= size {0 0})] dhdmajfl qlejvntr [arrow line])
+
+(vrl_instance {fytkwvhj qlejvntr} link [(= size {0 0})] fytkwvhj qlejvntr [arrow line])
+
+(vrl_instance {zytfcwad ybvodpzu} link [(= size {0 0})] zytfcwad ybvodpzu [])
+
+(vrl_instance {tjisdloa cvzeayvn} link [(= size {0 0})] tjisdloa cvzeayvn [])
+
+(vrl_instance {focngizk gymxpzjm} link [(= size {0 0})] focngizk gymxpzjm [])
+
+(vrl_instance {yytwojsf tjisdloa} link [(= size {0 0})] yytwojsf tjisdloa [])
+
+(vrl_instance {mwnipgzs qsrbutzu} link [(= size {0 0})] mwnipgzs qsrbutzu [])
+
+(vrl_instance {gymxpzjm zytfcwad} link [(= size {0 0})] gymxpzjm zytfcwad [])
+
+(vrl_instance {vdycirht mwnipgzs} link [(= size {0 0})] vdycirht mwnipgzs [arrow line])
+
+(vrl_instance {kbjgegqi yytwojsf} link [(= size {0 0})] kbjgegqi yytwojsf [arrow line])
+
+(vrl_instance {zdiddevm yytwojsf} link [(= size {0 0})] zdiddevm yytwojsf [arrow line])
+
+(vrl_instance {qsrbutzu utiihbml} link [(= size {0 0})] qsrbutzu utiihbml [arrow line])
+
+(vrl_instance {jttkdfwb tcmlfqfn} link [(= size {0 0})] jttkdfwb tcmlfqfn [])
+
+(vrl_instance {tcmlfqfn xnbyztni} link [(= size {0 0})] tcmlfqfn xnbyztni [])
+
+(vrl_instance {xnbyztni utprifjx} link [(= size {0 0})] xnbyztni utprifjx [])
+
+(vrl_instance {utprifjx avcpkvwp} link [(= size {0 0})] utprifjx avcpkvwp [])
+
+(vrl_instance {utprifjx daqnfhig} link [(= size {0 0})] utprifjx daqnfhig [])
+
+(vrl_instance {hnwvomfs jttkdfwb} link [(= size {0 0})] hnwvomfs jttkdfwb [arrow line])
+
+(vrl_instance {avcpkvwp ipiawhot} link [(= size {0 0})] avcpkvwp ipiawhot [arrow line])
+
+(vrl_instance {daqnfhig focngizk} link [(= size {0 0})] daqnfhig focngizk [arrow line])
+
+(vrl_instance {dkzihcwh xmeeyaav} link [(= size {0 0})] dkzihcwh xmeeyaav [])
+
+(vrl_instance {msrhrnnf ikpttdkp} link [(= size {0 0})] msrhrnnf ikpttdkp [])
+
+(vrl_instance {ikpttdkp iwgictue} link [(= size {0 0})] ikpttdkp iwgictue [])
+
+(vrl_instance {xmeeyaav msrhrnnf} link [(= size {0 0})] xmeeyaav msrhrnnf [arrow line])
+
+(vrl_instance {svtcpobe xughlybz} link [(= size {0 0})] svtcpobe xughlybz [])
+
+(vrl_instance {xughlybz eaubgtpz} link [(= size {0 0})] xughlybz eaubgtpz [])
+
+(vrl_instance {vhmsiawy svtcpobe} link [(= size {0 0})] vhmsiawy svtcpobe [])
+
+(vrl_instance {iwgictue kfhwpbqz} link [(= size {0 0})] iwgictue kfhwpbqz [arrow line])
+
+(vrl_instance {iwgictue ccyqvigl} link [(= size {0 0})] iwgictue ccyqvigl [arrow line])
+
+(vrl_instance {kfhwpbqz djbgmftn} link [(= size {0 0})] kfhwpbqz djbgmftn [arrow line])
+
+(vrl_instance {ccyqvigl vhmsiawy} link [(= size {0 0})] ccyqvigl vhmsiawy [arrow line])
+
+(vrl_instance {eaubgtpz jkbwzzhp} link [(= size {0 0})] eaubgtpz jkbwzzhp [arrow line])
+
+(vrl_instance {eaubgtpz vrrqghbq} link [(= size {0 0})] eaubgtpz vrrqghbq [arrow line])
+
+(vrl_instance {qtzitgow ynjxyjew} link [(= size {0 0})] qtzitgow ynjxyjew [])
+
+(vrl_instance {ynjxyjew ysgijrli} link [(= size {0 0})] ynjxyjew ysgijrli [arrow line])
+
+(vrl_instance {djbgmftn nwvklwxa} link [(= size {0 0})] djbgmftn nwvklwxa [arrow line])
+
+(vrl_instance {djbgmftn zikebamr} link [(= size {0 0})] djbgmftn zikebamr [arrow line])
+
+(vrl_instance {djbgmftn nqapquvv} link [(= size {0 0})] djbgmftn nqapquvv [arrow line])
+
+(vrl_instance {zikebamr fbqbpcio} link [(= size {0 0})] zikebamr fbqbpcio [arrow line])
+
+(vrl_instance {nwvklwxa fbqbpcio} link [(= size {0 0})] nwvklwxa fbqbpcio [arrow line])
+
+(vrl_instance {fbqbpcio jumsxieu} link [(= size {0 0})] fbqbpcio jumsxieu [arrow line])
+
+(vrl_instance {fbqbpcio uzdzmpzv} link [(= size {0 0})] fbqbpcio uzdzmpzv [arrow line])
+
+(vrl_instance {okveastz vsynvhvn} link [(= size {0 0})] okveastz vsynvhvn [])
+
+(vrl_instance {jgnojbjm toevtsku} link [(= size {0 0})] jgnojbjm toevtsku [])
+
+(vrl_instance {wpswlxyh yytwojsf} link [(= size {0 0})] wpswlxyh yytwojsf [arrow line])
+
+(vrl_instance {xtfvaqtq yytwojsf} link [(= size {0 0})] xtfvaqtq yytwojsf [arrow line])
+
+(vrl_instance {goapggax yytwojsf} link [(= size {0 0})] goapggax yytwojsf [arrow line])
+
+(vrl_instance {rbzlybdg yytwojsf} link [(= size {0 0})] rbzlybdg yytwojsf [arrow line])
+
+(vrl_instance {jumsxieu okveastz} link [(= size {0 0})] jumsxieu okveastz [arrow line])
+
+(vrl_instance {uzdzmpzv jgnojbjm} link [(= size {0 0})] uzdzmpzv jgnojbjm [arrow line])
+
+(vrl_instance {vsynvhvn wnanebpg} link [(= size {0 0})] vsynvhvn wnanebpg [arrow line])
+
+(vrl_instance {toevtsku ahtsjxvr} link [(= size {0 0})] toevtsku ahtsjxvr [arrow line])
+
+(vrl_instance {jkbwzzhp vhlgifxo} link [(= size {0 0})] jkbwzzhp vhlgifxo [arrow line])
+
+(vrl_instance {vhlgifxo etzeymhj} link [(= size {0 0})] vhlgifxo etzeymhj [arrow line])
+
+(vrl_instance {vhlgifxo vtxjehit} link [(= size {0 0})] vhlgifxo vtxjehit [arrow line])
+
+(vrl_instance {vhlgifxo xuzaaasy} link [(= size {0 0})] vhlgifxo xuzaaasy [arrow line])
+
+(vrl_instance {xuzaaasy itvjquks} link [(= size {0 0})] xuzaaasy itvjquks [arrow line])
+
+(vrl_instance {itvjquks agxtkbjj} link [(= size {0 0})] itvjquks agxtkbjj [arrow line])
+
+(vrl_instance {itvjquks kjciphcy} link [(= size {0 0})] itvjquks kjciphcy [arrow line])
+
+(vrl_instance {itvjquks jzcpstoq} link [(= size {0 0})] itvjquks jzcpstoq [arrow line])
+
+(vrl_instance {jzcpstoq vtpvtmvy} link [(= size {0 0})] jzcpstoq vtpvtmvy [arrow line])
+
+(vrl_instance {kjciphcy vtpvtmvy} link [(= size {0 0})] kjciphcy vtpvtmvy [arrow line])
+
+(vrl_instance {vtpvtmvy ztfkabwx} link [(= size {0 0})] vtpvtmvy ztfkabwx [arrow line])
+
+(vrl_instance {vtpvtmvy pilnzxjj} link [(= size {0 0})] vtpvtmvy pilnzxjj [arrow line])
+
+(vrl_instance {avukegrh luywjxyw} link [(= size {0 0})] avukegrh luywjxyw [])
+
+(vrl_instance {hwbjfnii vkqlxzli} link [(= size {0 0})] hwbjfnii vkqlxzli [])
+
+(vrl_instance {gteeuqcb ukmfhfdj} link [(= size {0 0})] gteeuqcb ukmfhfdj [])
+
+(vrl_instance {nkjeaqtb tithzyae} link [(= size {0 0})] nkjeaqtb tithzyae [])
+
+(vrl_instance {pilnzxjj jgnojbjm} link [(= size {0 0})] pilnzxjj jgnojbjm [arrow line])
+
+(vrl_instance {ztfkabwx nkjeaqtb} link [(= size {0 0})] ztfkabwx nkjeaqtb [arrow line])
+
+(vrl_instance {agxtkbjj gteeuqcb} link [(= size {0 0})] agxtkbjj gteeuqcb [arrow line])
+
+(vrl_instance {vtxjehit hwbjfnii} link [(= size {0 0})] vtxjehit hwbjfnii [arrow line])
+
+(vrl_instance {etzeymhj avukegrh} link [(= size {0 0})] etzeymhj avukegrh [arrow line])
+
+(vrl_instance {luywjxyw oipvnzhs} link [(= size {0 0})] luywjxyw oipvnzhs [arrow line])
+
+(vrl_instance {vkqlxzli kntkvqli} link [(= size {0 0})] vkqlxzli kntkvqli [arrow line])
+
+(vrl_instance {ukmfhfdj fpjinumi} link [(= size {0 0})] ukmfhfdj fpjinumi [arrow line])
+
+(vrl_instance {tithzyae xxpgqhhb} link [(= size {0 0})] tithzyae xxpgqhhb [arrow line])
+
+(vrl_instance {nqapquvv qtzitgow} link [(= size {0 0})] nqapquvv qtzitgow [])
+
+(vrl_instance {rftssqol axcbzdmm} link [(= size {0 0})] rftssqol axcbzdmm [])
+
+(vrl_instance {qxickkbl lxvuxpjz} link [(= size {0 0})] qxickkbl lxvuxpjz [])
+
+(vrl_instance {xnbaeltl qxickkbl} link [(= size {0 0})] xnbaeltl qxickkbl [])
+
+(vrl_instance {lxvuxpjz qqebxqfv} link [(= size {0 0})] lxvuxpjz qqebxqfv [])
+
+(vrl_instance {vrrqghbq sqfhujxt} link [(= size {0 0})] vrrqghbq sqfhujxt [arrow line])
+
+(vrl_instance {sqfhujxt xnbaeltl} link [(= size {0 0})] sqfhujxt xnbaeltl [arrow line])
+
+(vrl_instance {sqfhujxt jkdloqhz} link [(= size {0 0})] sqfhujxt jkdloqhz [arrow line])
+
+(vrl_instance {jkdloqhz uuqjwajq} link [(= size {0 0})] jkdloqhz uuqjwajq [arrow line])
+
+(vrl_instance {uuqjwajq rftssqol} link [(= size {0 0})] uuqjwajq rftssqol [arrow line])
+
+(vrl_instance {lvmecbrp dwymfltw} link [(= size {0 0})] lvmecbrp dwymfltw [])
+
+(vrl_instance {dwymfltw szchkkhs} link [(= size {0 0})] dwymfltw szchkkhs [arrow line])
+
+(vrl_instance {dwymfltw lmjpyihm} link [(= size {0 0})] dwymfltw lmjpyihm [arrow line])
+
+(vrl_instance {lmjpyihm xwkndajd} link [(= size {0 0})] lmjpyihm xwkndajd [arrow line])
+
+(vrl_instance {xwkndajd avaigprm} link [(= size {0 0})] xwkndajd avaigprm [arrow line])
+
+(vrl_instance {xwkndajd qgwpiilx} link [(= size {0 0})] xwkndajd qgwpiilx [arrow line])
+
+(vrl_instance {qgwpiilx ktojrkyo} link [(= size {0 0})] qgwpiilx ktojrkyo [arrow line])
+
+(vrl_instance {ktojrkyo lienfjtj} link [(= size {0 0})] ktojrkyo lienfjtj [arrow line])
+
+(vrl_instance {ktojrkyo zdledjss} link [(= size {0 0})] ktojrkyo zdledjss [arrow line])
+
+(vrl_instance {noeeeywp kjtfgkee} link [(= size {0 0})] noeeeywp kjtfgkee [])
+
+(vrl_instance {rvjgqslf osniwqgo} link [(= size {0 0})] rvjgqslf osniwqgo [])
+
+(vrl_instance {osniwqgo fnrgyydu} link [(= size {0 0})] osniwqgo fnrgyydu [])
+
+(vrl_instance {zgueyzoc hqtrlaqy} link [(= size {0 0})] zgueyzoc hqtrlaqy [])
+
+(vrl_instance {zdledjss rvjgqslf} link [(= size {0 0})] zdledjss rvjgqslf [arrow line])
+
+(vrl_instance {avaigprm gvhmfckw} link [(= size {0 0})] avaigprm gvhmfckw [arrow line])
+
+(vrl_instance {lienfjtj dlsdqupd} link [(= size {0 0})] lienfjtj dlsdqupd [arrow line])
+
+(vrl_instance {gvhmfckw zgueyzoc} link [(= size {0 0})] gvhmfckw zgueyzoc [arrow line])
+
+(vrl_instance {dlsdqupd noeeeywp} link [(= size {0 0})] dlsdqupd noeeeywp [arrow line])
+
+(vrl_instance {gwlwqtbu nsszijqo} link [(= size {0 0})] gwlwqtbu nsszijqo [])
+
+(vrl_instance {nsszijqo vlynndha} link [(= size {0 0})] nsszijqo vlynndha [])
+
+(vrl_instance {vlynndha kiflfvzh} link [(= size {0 0})] vlynndha kiflfvzh [])
+
+(vrl_instance {kiflfvzh nzenbcys} link [(= size {0 0})] kiflfvzh nzenbcys [])
+
+(vrl_instance {kiflfvzh kahsrygc} link [(= size {0 0})] kiflfvzh kahsrygc [])
+
+(vrl_instance {fqnrzjgt ezcsuhhm} link [(= size {0 0})] fqnrzjgt ezcsuhhm [])
+
+(vrl_instance {ezcsuhhm owigwzad} link [(= size {0 0})] ezcsuhhm owigwzad [])
+
+(vrl_instance {owigwzad iixkrrcs} link [(= size {0 0})] owigwzad iixkrrcs [])
+
+(vrl_instance {iixkrrcs yntdvyqp} link [(= size {0 0})] iixkrrcs yntdvyqp [])
+
+(vrl_instance {iixkrrcs zbafmjgy} link [(= size {0 0})] iixkrrcs zbafmjgy [])
+
+(vrl_instance {zkbrdlci wwrvgdhb} link [(= size {0 0})] zkbrdlci wwrvgdhb [])
+
+(vrl_instance {wwrvgdhb qzxmcthz} link [(= size {0 0})] wwrvgdhb qzxmcthz [])
+
+(vrl_instance {qzxmcthz gaeposbk} link [(= size {0 0})] qzxmcthz gaeposbk [])
+
+(vrl_instance {gaeposbk rccdpqge} link [(= size {0 0})] gaeposbk rccdpqge [])
+
+(vrl_instance {gaeposbk pryokxvp} link [(= size {0 0})] gaeposbk pryokxvp [])
+
+(vrl_instance {yrawnsul dfznzgrv} link [(= size {0 0})] yrawnsul dfznzgrv [])
+
+(vrl_instance {dfznzgrv xmhcmzvv} link [(= size {0 0})] dfznzgrv xmhcmzvv [])
+
+(vrl_instance {xmhcmzvv uzysqqoj} link [(= size {0 0})] xmhcmzvv uzysqqoj [])
+
+(vrl_instance {uzysqqoj mptdjaqc} link [(= size {0 0})] uzysqqoj mptdjaqc [])
+
+(vrl_instance {uzysqqoj qhncbkce} link [(= size {0 0})] uzysqqoj qhncbkce [])
+
+(vrl_instance {cwvnyhwm ntavmciw} link [(= size {0 0})] cwvnyhwm ntavmciw [])
+
+(vrl_instance {gqgflwtw ytkozfwt} link [(= size {0 0})] gqgflwtw ytkozfwt [])
+
+(vrl_instance {ytkozfwt cwvnyhwm} link [(= size {0 0})] ytkozfwt cwvnyhwm [])
+
+(vrl_instance {osxgsldp meqggllp} link [(= size {0 0})] osxgsldp meqggllp [])
+
+(vrl_instance {qdlalewo jpsbstgi} link [(= size {0 0})] qdlalewo jpsbstgi [])
+
+(vrl_instance {jpsbstgi osxgsldp} link [(= size {0 0})] jpsbstgi osxgsldp [])
+
+(vrl_instance {rzbuzzal dwbsddpu} link [(= size {0 0})] rzbuzzal dwbsddpu [])
+
+(vrl_instance {mskbabni eganpdbf} link [(= size {0 0})] mskbabni eganpdbf [])
+
+(vrl_instance {eganpdbf rzbuzzal} link [(= size {0 0})] eganpdbf rzbuzzal [])
+
+(vrl_instance {obhcfmej tyzfifhj} link [(= size {0 0})] obhcfmej tyzfifhj [])
+
+(vrl_instance {ialbqmal jvdcpbir} link [(= size {0 0})] ialbqmal jvdcpbir [])
+
+(vrl_instance {jvdcpbir obhcfmej} link [(= size {0 0})] jvdcpbir obhcfmej [])
+
+(vrl_instance {nzenbcys gqgflwtw} link [(= size {0 0})] nzenbcys gqgflwtw [arrow line])
+
+(vrl_instance {yntdvyqp qdlalewo} link [(= size {0 0})] yntdvyqp qdlalewo [arrow line])
+
+(vrl_instance {rccdpqge mskbabni} link [(= size {0 0})] rccdpqge mskbabni [arrow line])
+
+(vrl_instance {mptdjaqc ialbqmal} link [(= size {0 0})] mptdjaqc ialbqmal [arrow line])
+
+(vrl_instance {kahsrygc cefnpmrv} link [(= size {0 0})] kahsrygc cefnpmrv [arrow line])
+
+(vrl_instance {cefnpmrv adbmomys} link [(= size {0 0})] cefnpmrv adbmomys [arrow line])
+
+(vrl_instance {cefnpmrv ljglsrkw} link [(= size {0 0})] cefnpmrv ljglsrkw [arrow line])
+
+(vrl_instance {cefnpmrv crrahfcp} link [(= size {0 0})] cefnpmrv crrahfcp [arrow line])
+
+(vrl_instance {ljglsrkw mwehvjbk} link [(= size {0 0})] ljglsrkw mwehvjbk [arrow line])
+
+(vrl_instance {mwehvjbk crrahfcp} link [(= size {0 0})] mwehvjbk crrahfcp [arrow line])
+
+(vrl_instance {ixdiddug epkrabfg} link [(= size {0 0})] ixdiddug epkrabfg [])
+
+(vrl_instance {cxativcj ixdiddug} link [(= size {0 0})] cxativcj ixdiddug [])
+
+(vrl_instance {mjvymyza zgpcxkaj} link [(= size {0 0})] mjvymyza zgpcxkaj [])
+
+(vrl_instance {ndyewbsw mjvymyza} link [(= size {0 0})] ndyewbsw mjvymyza [])
+
+(vrl_instance {mwehvjbk vdukgmee} link [(= size {0 0})] mwehvjbk vdukgmee [arrow line])
+
+(vrl_instance {adbmomys cxativcj} link [(= size {0 0})] adbmomys cxativcj [arrow line])
+
+(vrl_instance {vdukgmee ndyewbsw} link [(= size {0 0})] vdukgmee ndyewbsw [arrow line])
+
+(vrl_instance {igkwczlf ygriramr} link [(= size {0 0})] igkwczlf ygriramr [])
+
+(vrl_instance {axrqlyvl igkwczlf} link [(= size {0 0})] axrqlyvl igkwczlf [])
+
+(vrl_instance {crrahfcp axrqlyvl} link [(= size {0 0})] crrahfcp axrqlyvl [arrow line])
+
+(vrl_instance {zbafmjgy ioykqgrk} link [(= size {0 0})] zbafmjgy ioykqgrk [arrow line])
+
+(vrl_instance {ioykqgrk utczaztg} link [(= size {0 0})] ioykqgrk utczaztg [arrow line])
+
+(vrl_instance {ioykqgrk qygwbwbi} link [(= size {0 0})] ioykqgrk qygwbwbi [arrow line])
+
+(vrl_instance {ioykqgrk nriwtcff} link [(= size {0 0})] ioykqgrk nriwtcff [arrow line])
+
+(vrl_instance {qygwbwbi mcclqapw} link [(= size {0 0})] qygwbwbi mcclqapw [arrow line])
+
+(vrl_instance {mcclqapw cvdlniug} link [(= size {0 0})] mcclqapw cvdlniug [arrow line])
+
+(vrl_instance {mcclqapw nriwtcff} link [(= size {0 0})] mcclqapw nriwtcff [arrow line])
+
+(vrl_instance {kfzhlqhn vpjbvirf} link [(= size {0 0})] kfzhlqhn vpjbvirf [])
+
+(vrl_instance {gczxgdmj kfzhlqhn} link [(= size {0 0})] gczxgdmj kfzhlqhn [])
+
+(vrl_instance {gbyxozac xoljyxkm} link [(= size {0 0})] gbyxozac xoljyxkm [])
+
+(vrl_instance {tuulphuj gbyxozac} link [(= size {0 0})] tuulphuj gbyxozac [])
+
+(vrl_instance {utczaztg gczxgdmj} link [(= size {0 0})] utczaztg gczxgdmj [arrow line])
+
+(vrl_instance {cvdlniug tuulphuj} link [(= size {0 0})] cvdlniug tuulphuj [arrow line])
+
+(vrl_instance {nriwtcff axrqlyvl} link [(= size {0 0})] nriwtcff axrqlyvl [arrow line])
+
+(vrl_instance {pryokxvp hjftzwkl} link [(= size {0 0})] pryokxvp hjftzwkl [arrow line])
+
+(vrl_instance {hjftzwkl zgchihnj} link [(= size {0 0})] hjftzwkl zgchihnj [arrow line])
+
+(vrl_instance {hjftzwkl rmmbsqwf} link [(= size {0 0})] hjftzwkl rmmbsqwf [arrow line])
+
+(vrl_instance {skkvtqql qkihlhxn} link [(= size {0 0})] skkvtqql qkihlhxn [])
+
+(vrl_instance {mdsnwwyt skkvtqql} link [(= size {0 0})] mdsnwwyt skkvtqql [])
+
+(vrl_instance {zgchihnj mdsnwwyt} link [(= size {0 0})] zgchihnj mdsnwwyt [arrow line])
+
+(vrl_instance {nmrigscr irtqrbik} link [(= size {0 0})] nmrigscr irtqrbik [])
+
+(vrl_instance {qezdjbem nmrigscr} link [(= size {0 0})] qezdjbem nmrigscr [])
+
+(vrl_instance {vomzoorl qezdjbem} link [(= size {0 0})] vomzoorl qezdjbem [])
+
+(vrl_instance {qhncbkce bydrpmtn} link [(= size {0 0})] qhncbkce bydrpmtn [arrow line])
+
+(vrl_instance {bydrpmtn vomzoorl} link [(= size {0 0})] bydrpmtn vomzoorl [arrow line])
+
+(vrl_instance {bydrpmtn bgsznnmh} link [(= size {0 0})] bydrpmtn bgsznnmh [arrow line])
+
+(vrl_instance {rmmbsqwf axrqlyvl} link [(= size {0 0})] rmmbsqwf axrqlyvl [arrow line])
+
+(vrl_instance {bgsznnmh axrqlyvl} link [(= size {0 0})] bgsznnmh axrqlyvl [arrow line])
+
+(vrl_instance {szchkkhs cafvolzm} link [(= size {0 0})] szchkkhs cafvolzm [arrow line])
+
+(vrl_instance {cafvolzm epeenthu} link [(= size {0 0})] cafvolzm epeenthu [arrow line])
+
+(vrl_instance {cafvolzm vhmsktvl} link [(= size {0 0})] cafvolzm vhmsktvl [arrow line])
+
+(vrl_instance {cafvolzm xoyvaamh} link [(= size {0 0})] cafvolzm xoyvaamh [arrow line])
+
+(vrl_instance {cafvolzm kmugmpmr} link [(= size {0 0})] cafvolzm kmugmpmr [arrow line])
+
+(vrl_instance {epeenthu gwlwqtbu} link [(= size {0 0})] epeenthu gwlwqtbu [arrow line])
+
+(vrl_instance {vhmsktvl fqnrzjgt} link [(= size {0 0})] vhmsktvl fqnrzjgt [arrow line])
+
+(vrl_instance {xoyvaamh zkbrdlci} link [(= size {0 0})] xoyvaamh zkbrdlci [arrow line])
+
+(vrl_instance {kmugmpmr yrawnsul} link [(= size {0 0})] kmugmpmr yrawnsul [arrow line])
